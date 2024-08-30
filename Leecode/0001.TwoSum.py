@@ -64,7 +64,7 @@ print(twoSumUpgrade([2,9,5,5],10))
 print(twoSumAdvance([2,9,5,5],10))
 
 '''
-What I studied:
+■ What I studied:
 1. Using hash to find index of item
 2. Using if i in <List>: to check item in List
 3. List.Index(<item_value>) : return FIRST index of this item
