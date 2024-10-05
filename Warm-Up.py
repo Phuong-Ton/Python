@@ -135,3 +135,37 @@ print(bin(16))
 # 16-> 0b10000
 
 
+'''
+List start 0   1   2
+          -3  -2  -1 -> support minus index
+del List[0]
+->  1  2
+   -2 -1
+
+
+list1 = [10, 11, 12, 13, 14]
+print(list1[::3])
+
+-> [10,13]
+
+
+
+Which of the following will reverse list1=[2,5,3,1]?
+
+
+
+list1[::-1]
+
+
+
+
+arr[start:stop]         # items start through stop-1
+arr[start:]             # items start through the rest of the array
+arr[:stop]              # items from the beginning through stop-1
+arr[:]                  # a copy of the whole array
+arr[start:stop:step]    # start through not past stop, by step
+'''
+
+
+
+
